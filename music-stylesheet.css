@@ -1,0 +1,64 @@
+#musicTitle{
+  background:url("http://31.media.tumblr.com/49f218ec6dae0ec184b8b98bcc39f2f3/tumblr_njedfjnPkR1sjeyq0o1_500.gif");
+  outline: 2px dotted #a1bdea;
+  font-size: 120px;
+  font-family: "impact";
+  color: #ffb7f6;
+
+}
+
+body{
+  background-color: #041b49;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: "comic sans ms";
+  font-size: 20px;
+  color: white;
+}
+li {
+    display: inline;
+}
+
+li a {
+  padding: 5px;
+  background-color: #680099;
+    display: inline;
+    color: white;
+    text-align: center;
+
+    text-decoration: none;
+}
+#intro{
+  font-size: 35px
+  background: #20396b;
+}
+
+li a:hover {
+    background-color:#1b0028;
+  }
+#contactInfo{
+  font-size: 40px;
+  font-family: "impact";
+  outline: 4px dashed #ffffff;
+}
+p{
+  background: url("https://ak7.picdn.net/shutterstock/videos/4412837/thumb/1.jpg");
+  outline: 4px dashed #ffffff;
+
+  }
+  button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: black;
+    font-family: "impact";
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+  @font-face {
+    font-family: snickersnack;
+    src: url("SnickerSnack.ttf")
+  }
